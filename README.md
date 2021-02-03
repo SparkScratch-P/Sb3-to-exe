@@ -45,7 +45,7 @@ u could see the following img there:
 Type the following code there:
 
 ```
- nativefier --name "GitHub" "http://github.com"
+ nativefier --name "Game name" "https://forkphorus link"
  ```
 
 
