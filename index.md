@@ -52,5 +52,5 @@ Type the following code there:
 Wait the process to end. Then open the file location given at the beginning of the code , before u typed. (see the above pic)
 Then open the folder and run the `.exe` file. ***So, U r done!***
 
-#Just Enjoy !!!
+# Just Enjoy !!!
 
